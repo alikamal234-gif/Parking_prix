@@ -1,1 +1,55 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> HELLO 👋 my name is ali <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2> <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> <p><em> my facebook <a href="https://www.facebook.com/profile.php?id=100092638151501">facebook </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </em></p> [![instagram Follow](https://www.instagram.com/ali.kamal234?igsh=MXA2cHJra3VnbGh6eQ==)] <a href="https://trendshift.io/developers/2235" target="_blank"><img src="https://trendshift.io/api/badge/developers/2235" alt="anmol098 | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a> ### 📫 Like to meet me? Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda <a href="https://calendly.com/anmol098/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a> 👇 Hit in your console or terminal to connect with me. ```bash npx anmol ``` **👆 This command line tool can be found at [npx anmol](https://github.com/anmol098/npx_card)** ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em> --- <!--START_SECTION:waka--> ![Code Time]```text 🌞 Morning                1529 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 🌆 Daytime                3500 commits        ██████████░░░░░░░░░░░░░░░   39.84 % 🌃 Evening                2537 commits        ███████░░░░░░░░░░░░░░░░░░   28.88 % 🌙 Night                  1219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % ``` 📅 **I'm Most Productive on Sunday** ```text Monday                   1008 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.47 % Tuesday                  1289 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % Wednesday                1415 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % Thursday                 1026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % Friday                   865 commits
+<h1 align="center">
+  مرحباً 👋، أنا علي كمال
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+</h1>
+
+<p align="center">
+  👨‍💻 مطور شغوف بعمر 18 سنة، أحب بناء التطبيقات وحل المشكلات باستخدام الكود. <br>
+  💬 أكتب باستخدام: <strong>Python</strong>, <strong>Java</strong>, <strong>Dart</strong> <br>
+  📍 من العالم العربي – منفتح دائمًا للتعلم والتعاون!
+</p>
+
+---
+
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
+
+### 🧑‍💼 معلومات سريعة:
+
+- 💡 أحب تعلم أشياء جديدة وتطوير مهاراتي.
+- 🔭 أعمل على مشاريع شخصية باستخدام Flutter وSpring Boot.
+- 📫 يمكن التواصل معي عبر:
+  - [📘 فيسبوك](https://www.facebook.com/profile.php?id=100092638151501)
+  - [📸 إنستغرام](https://www.instagram.com/ali.kamal234)
+  - [👨‍💻 TrendShift](https://trendshift.io/developers/2235)
+
+---
+
+### 🚀 المهارات التي أستخدمها:
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+---
+
+### 📈 إحصائياتي على GitHub:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-kamal&show_icons=true&theme=tokyonight" width="45%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-kamal&layout=compact&theme=tokyonight" width="45%">
+</p>
+
+---
+
+### ☕ لنتحدث!
+
+💬 أحب التعرف على أشخاص جدد! إذا كنت ترغب بالتواصل معي أو التعاون في مشروع، لا تتردد في إرسال رسالة!
+
+---
+
+<p align="center">
+  <a href="https://wa.me/212657499843" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+</p>
